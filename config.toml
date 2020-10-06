@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://observr.tv"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-product-launch"
 
 # The "title" of your website
-title = "Builders Of The Future, Inc."
+title = "ObserVR"
 
 # Render line-breaks in .md-files as line-breaks in HTML.
 # This is e.g. useful for rendering a multi-line address.
@@ -21,10 +21,10 @@ title = "Builders Of The Future, Inc."
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Builders Of The Future, Inc."
+    copyright = "© ObserVR 2020"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "You don't even know what we can do for you!"
+    description = "The future of sports broadcasting."
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -39,7 +39,7 @@ title = "Builders Of The Future, Inc."
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Builders Of The Future, Inc."
+    title = "ObserVR"
 
     # LICENSE: Hugo Product Launch by Jan Raasch is licensed
     # under Attribution 4.0 International (CC BY 4.0).
@@ -51,4 +51,4 @@ title = "Builders Of The Future, Inc."
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "vr,sports,broadcasting,virtual reality,high school sports, college sports"
